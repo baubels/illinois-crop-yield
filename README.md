@@ -1,6 +1,6 @@
 # illinois-crop-yield
 
-This is the submission made by my team 'We are Dense' for the 2021 ICDSS AI Hackathon. I am grateful for my teammates, for being great to bounce ideas off of, and for creating nice reports and introducing me to some interesting statistical techniques on model evaluation. The 'final_model' was made by me using Pytorch, and used cleaned tabular data from my teammates and other baseline models.
+This is the submission made by my team 'We are Dense' for the 2021 ICDSS AI Hackathon. I am grateful for my teammates, for being great to bounce ideas off of, and for creating nice reports and introducing me to some interesting statistical techniques on model evaluation. The 'final_model' was made by me using Pytorch, and used cleaned tabular data from my teammates and other baseline models. The final report for reading can be seen in 'AI_Hack_Report'.
 
 Our model lets farmers predict crop yield months in advance of harvesting, reducing logistical stress. We predicted using EVI and temperature data alone.
 The video presentation can be found here: https://www.youtube.com/watch?v=XuMe_tfv1WY. Unfortunetaly, the data is too large to store on Github, so for that reason it can be found here: https://drive.google.com/drive/folders/1UyithOOXWEOQKmgPC5NLxOG6kaHW0UQO?usp=sharing.
